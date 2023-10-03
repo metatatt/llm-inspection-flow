@@ -23,8 +23,8 @@ import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
 //
-const cvKey ="a19a2f3fcf784222a2af267179de9125";
-const cvEndpoint = "https://linecam2023-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/f98392ca-b533-4966-b222-d5054dfbe357/detect/iterations/Iteration4/image"
+const cvKey =;
+const cvEndpoint =;
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
